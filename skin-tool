@@ -1,3 +1,3 @@
 cd AKTOOL_SKIN
 chmod +x *
-./loader
+./obnova
